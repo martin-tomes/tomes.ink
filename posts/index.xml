@@ -6,7 +6,15 @@
     <description>Recent content in Posts on Martin Tomes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="//tomes.ink/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Start Blogging?</title>
+      <link>//tomes.ink/posts/why-not-blogging/</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//tomes.ink/posts/why-not-blogging/</guid>
+      <description>Because why not? :) &amp;hellip; Ok, ok, this deserves better explanation since this is my first blog post.
+I&amp;rsquo;ve recently left all social networks to protect my own sanity and privacy. The only socials media I&amp;rsquo;m currently using is Nostr which is more community than a social network (at least for now). Nostr serves very well my occasional short &amp;ldquo;twetts&amp;rdquo; but sometimes I feel an urge to share something longer to read.</description>
+    </item>
   </channel>
 </rss>
